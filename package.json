@@ -1,0 +1,25 @@
+{
+  "name": "test-beebs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erwanjb/test-beebs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erwanjb/test-beebs/issues"
+  },
+  "homepage": "https://github.com/erwanjb/test-beebs#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  },
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
